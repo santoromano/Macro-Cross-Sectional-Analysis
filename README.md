@@ -1,3 +1,3 @@
 # Macro-Cross-Sectional-Analysis
 
-Replication and extension of Chen, Roll & Ross (1986)
+Extension of Vasslou (2003).
